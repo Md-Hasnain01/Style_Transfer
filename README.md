@@ -42,3 +42,9 @@ pip install PIL
 
 ## Examples
 
+![amber](https://github.com/user-attachments/assets/b1d2a439-66b4-4888-b071-793aa283d5d6)
+
+![rain_princess](https://github.com/user-attachments/assets/88f70c12-3cb5-44f0-a072-315f3c8d8c72)
+
+![stylized-amber-rain_princess](https://github.com/user-attachments/assets/78dfc823-f6c1-469f-ace0-1c91de61a449)
+
