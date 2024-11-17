@@ -5,9 +5,7 @@ This project implements Neural Style Transfer (NST) using PyTorch. Neural Style 
 ## Website URL
 
 Local URL: http://localhost:8501
-
-         or
-         
+          
 Network URL: http://10.8.219.62:8501
        
 
