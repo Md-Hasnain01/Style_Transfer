@@ -2,12 +2,7 @@
 
 This project implements Neural Style Transfer (NST) using PyTorch. Neural Style Transfer is a technique for blending two images—a content image and a style image—to generate a new image that maintains the content of the content image while adopting the style of the style image.
 
-## Website URL
 
-Local URL: http://localhost:8501
-          
-Network URL: http://10.8.219.62:8501
-       
 
 ## Key Features
 - Implemented using PyTorch for flexibility and efficiency.
